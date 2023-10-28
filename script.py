@@ -6,7 +6,6 @@
 # This automates movement by the computer
 # The penguin is placed at random places in the world, and the Panda needs to find him before the blizzard
 
-
 from setuptools import setup
 import direct
 import numpy
