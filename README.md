@@ -13,6 +13,9 @@ The reason why i choose panda and penguins is that they are some of the most loy
 Its not that easy as we think of it but we can try it.
 # Demo
 lets see if my 3D pandas finds his Love
+
+Demo Vedio clip 
+https://github.com/Lakshmikiranmai77/WalkingPanda/blob/main/Demo.gif
 ![image](https://github.com/Lakshmikiranmai77/WalkingPanda/assets/57581088/23aa6d78-af61-4098-876c-9c1b03785a56)
 ![image](https://github.com/Lakshmikiranmai77/WalkingPanda/assets/57581088/4362127d-eb31-4112-93e5-8ce4e4d07b3a)
 
