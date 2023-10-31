@@ -4,7 +4,7 @@ Alone 3D Panda Searching for her bestie penguin cool.
 When a penguin finds its mate, they stay together forever. Thats cute.
 # Made for eachother
 But, what if your soulmate is in love with someone else.? OMG.! Thats where the real problem starts. Welcome to the Hell out of Heaven. 
-ha haha Just kidding : ) 
+ha haha Just kidding :) 
 
 ![image](https://github.com/Lakshmikiranmai77/WalkingPanda/assets/57581088/164f393b-eccf-4e83-8b21-540b8acfeeec)
 
